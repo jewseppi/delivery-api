@@ -29,7 +29,7 @@ A RESTful API backend built with Ruby on Rails for managing food delivery servic
 
 ## 🛠️ Tech Stack
 
-- **Ruby on Rails 7.x** - Web framework
+- **Ruby on Rails 8.x** - Web framework
 - **PostgreSQL** - Database (production)
 - **SQLite** - Database (development)
 - **bcrypt** - Password encryption
