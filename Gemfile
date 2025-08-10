@@ -24,7 +24,7 @@ gem 'sidekiq'
 gem 'jsonapi-serializer'
 
 # WebSocket support
-gem 'redis', '~> 4.0'
+gem 'redis', '~> 5.4'
 
 # Image processing
 gem 'image_processing', '~> 1.2'
